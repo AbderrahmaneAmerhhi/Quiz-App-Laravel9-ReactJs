@@ -18,20 +18,20 @@ class UserSeederTable extends Seeder
     {
         //
         User::create(
-            // [
-            // 'name'=>'user',
-            // 'role'=>'student',
-            // 'adress'=>'casa',
-            // 'email'=>'user@dev.test',
-            // 'password'=>Hash::make('user'),
-            // ],
             [
-                'name'=>'userprof',
-                'role'=>'teacher',
-                'adress'=>'casa',
-                'email'=>'prof@dev.test',
-                'password'=>Hash::make('prof'),
-             ],
-    );
+                'name' => 'user',
+                'role' => 'student',
+                'adress' => 'casa',
+                'email' => 'user@dev.test',
+                'password' => Hash::make('user'),
+            ],
+            [
+                'name' => 'userprof',
+                'role' => 'teacher',
+                'adress' => 'casa',
+                'email' => 'prof@dev.test',
+                'password' => Hash::make('prof'),
+            ],
+        );
     }
 }
