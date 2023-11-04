@@ -5,8 +5,6 @@
 
 Quiz app with laravel reactjs that enable admin to manage scholar etablissements grupes teachers and students quiz , Teachers can add new tests and have students pass the tests
 
-Discover [Vedio](https://abderrahmaneamerrhi.com/assets/dgshopv2ved-a792a917.mp4).
-
 ## Information
 
 I built the app using laravel and reactjs, made a simple backend and also used api, created apis using laravel and used them in reactjs components
