@@ -29,7 +29,7 @@ I built the app using laravel and reactjs, made a simple backend and also used a
 
 ```bash or terminal
   # Cloning app
-  git clone  https://github.com/AbderrahmaneAmerhhi/DSHOPV2.git
+  git clone  https://github.com/AbderrahmaneAmerhhi/Quiz-App-Laravel9-ReactJs
 
   # install composer
    composer install
